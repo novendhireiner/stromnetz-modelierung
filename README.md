@@ -1,2 +1,2 @@
-# stromnetz-modelierung
-Optimierung und Analyse des deutschen Stromnetzes im Jahr 2023
+# Portfolio für deutschen Stromnetz-modelierung
+Optimierung und Lastflussanalyse des deutschen Stromnetzes unter Berücksichtigung erneuerbarer Energien und regionaler Netzintegration im Jahr 2023
